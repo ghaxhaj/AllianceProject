@@ -2,6 +2,7 @@
   height: 100%;
   width: 100%;
   border: 1px solid black;
+  background-color: aqua;
 }
 .parent {
   display: flex;
@@ -12,13 +13,27 @@
   border: solid;
   margin: 5px;
   height: 100px;
-  background-color: white;
+  background-color: yellow;
 }
 
 .clickedCard {
 flex: 1 0 21%; 
 border: solid; 
 margin: 5px;
-background-color: white;
+background-color: yellow;
+}
 
+.searchField{
+ float: right;
+}
+
+.exchangeRateForm{
+  float: left;
+  /* display: flex; */
+  flex-wrap: wrap;
+}
+
+.exchangeRate{
+  margin-left: auto;
+  float: right;
 }
