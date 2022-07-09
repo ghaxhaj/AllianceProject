@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AllianceProject/static/css/main.69bd1cfd.css",
+    "main.js": "/AllianceProject/static/js/main.d2759802.js",
+    "static/js/787.13c45f83.chunk.js": "/AllianceProject/static/js/787.13c45f83.chunk.js",
+    "index.html": "/AllianceProject/index.html",
+    "main.69bd1cfd.css.map": "/AllianceProject/static/css/main.69bd1cfd.css.map",
+    "main.d2759802.js.map": "/AllianceProject/static/js/main.d2759802.js.map",
+    "787.13c45f83.chunk.js.map": "/AllianceProject/static/js/787.13c45f83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69bd1cfd.css",
+    "static/js/main.d2759802.js"
+  ]
+}
